@@ -1,2 +1,2 @@
 # university_map
-Interactive map of best universities with space priority
+Геншин импакт кусок говна
